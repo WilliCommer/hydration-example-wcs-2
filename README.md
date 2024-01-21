@@ -64,3 +64,9 @@ function hydrate() {
 
 addEventListener("DOMContentLoaded", hydrate);
 ```
+
+## NPM Scripts
+
+- **start** start the server
+- **dev** run in develpment mode, require NODEMON installed
+- **build** create a minimized client script
